@@ -1,0 +1,10 @@
+STUDENT MANAGEMENT SYSTEM - STATISTICS
+Developer C - Learning Results
+
+SV001 - Nguyen Van An - GPA: 3.5
+SV002 - Tran Thi Binh - GPA: 3.8
+SV003 - Le Van Cuong - GPA: 3.2
+SV004 - Pham Thi Dung - GPA: 3.6
+
+Total students: 4
+Average GPA: 3.53
